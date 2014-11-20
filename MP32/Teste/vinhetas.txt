@@ -1,0 +1,78 @@
+Para colocar suas Vinhetas no programa adicione as urls das vinhetas nesse bloco de notas !Lembresse NUNCA! altere o numero de linhas desse bloco siga os Exemplos da Linha1: C:\Users\User\Music\Let's Rock\Vinhetas\Letisroki.wav Vai tocar vinheta do lets rock voce pode alterar apartir da aba1 
+Aba1
+C:\exemplo\Exemplicficado\lets rock vth.mp3 <- Você pode mudar essa linha inteira com o endereço das suas vinhetas!
+C:\Users\User\Music\Let's Rock\Vinhetas\PontesLR\Gatox Habbid_26_06_2012@19_10_27.wav
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+Aba2
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+Aba3
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+Aba4
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+Aba5
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+Aba6
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+C:\
+FIM
+
+Eu sempre sonhei em fazer a diferença.
+Todos os creditos reservados a Hadia pelo programa e Balão pelo desing, inspiração radio Habbid.
+
+
+
+	L.leitura();
+        Wav.Sons(L.aba1linha1);
+        Wav.tocarWav();
+        Mp3.Play(L.aba1linha1);

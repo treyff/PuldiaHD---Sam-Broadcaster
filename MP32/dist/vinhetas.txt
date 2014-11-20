@@ -1,0 +1,33 @@
+Para colocar suas Vinhetas no programa adicione a url da vinheta a esse bloco de notas:
+Lembresse NUNCA! altere o numero de linhas. Exemplo Linha1: C:\Users\User\Music\Let's Rock\Vinhetas\Letisroki.wav 
+C:\Users\User\Music\Let's Rock\Vinhetas\lets rock vth.mp3
+C:\Users\User\Music\Let's Rock\Vinhetas\PontesLR\Gatox Habbid_26_06_2012@19_10_27.wav
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abaixo adicione o Nome das Vinhetas na mesma ordem das urls para identificar as vinhetas:
+Exemplo: Letisroki
+Letisroki
