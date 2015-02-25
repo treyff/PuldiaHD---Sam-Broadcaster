@@ -21,7 +21,7 @@ public class EscritorDocumento {
     BufferedWriter buff;
     public void escritorDocumento(){
         File file = new File("C:\\UrlSam.txt");
-        if(!file.exists()){
+        if(file.exists()){
         try {
             can = new FileWriter(file);
             buff = new BufferedWriter(can);
