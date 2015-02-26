@@ -20,22 +20,22 @@ public class Tela2 extends javax.swing.JFrame {
         
         initComponents();
         X.LerBanco();
-        l1.setText("  "+X.a1t1);
-        l2.setText("  "+X.a1t2);
-        l3.setText("  "+X.a1t3);
-        l4.setText("  "+X.a1t4);
-        l5.setText("  "+X.a1t5);
-        l6.setText("  "+X.a1t6);
-        l7.setText("  "+X.a1t7);
-        l8.setText("  "+X.a1t8);
-        l9.setText("  "+X.a1t9);
-        l10.setText("  "+X.a1t10);
-        l11.setText("  "+X.a1t11);
-        l12.setText("  "+X.a1t12);
-        l13.setText("  "+X.a1t13);
-        l14.setText("  "+X.a1t14);
-        l15.setText("  "+X.a1t15);
-        l16.setText("  "+X.a1t16);
+        l1.setText("  "+X.a2t1);
+        l2.setText("  "+X.a2t2);
+        l3.setText("  "+X.a2t3);
+        l4.setText("  "+X.a2t4);
+        l5.setText("  "+X.a2t5);
+        l6.setText("  "+X.a2t6);
+        l7.setText("  "+X.a2t7);
+        l8.setText("  "+X.a2t8);
+        l9.setText("  "+X.a2t9);
+        l10.setText("  "+X.a2t10);
+        l11.setText("  "+X.a2t11);
+        l12.setText("  "+X.a2t12);
+        l13.setText("  "+X.a2t13);
+        l14.setText("  "+X.a2t14);
+        l15.setText("  "+X.a2t15);
+        l16.setText("  "+X.a2t16);
         
     }
 
@@ -397,99 +397,99 @@ public class Tela2 extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void b3MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b3MouseReleased
-        Wav.Sons(X.a1l3);
+        Wav.Sons(X.a2l3);
         Wav.tocarWav();
-        Mp3.Play(X.a1l3);
+        Mp3.Play(X.a2l3);
     }//GEN-LAST:event_b3MouseReleased
 
     private void b1MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b1MouseReleased
-        Wav.Sons(X.a1l1);
+        Wav.Sons(X.a2l1);
         Wav.tocarWav();
-        Mp3.Play(X.a1l1);
+        Mp3.Play(X.a2l1);
     }//GEN-LAST:event_b1MouseReleased
 
     private void jLabel22MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel22MouseReleased
-        Wav.Sons(X.a1l2);
+        Wav.Sons(X.a2l2);
         Wav.tocarWav();
-        Mp3.Play(X.a1l2);
+        Mp3.Play(X.a2l2);
     }//GEN-LAST:event_jLabel22MouseReleased
 
     private void b6MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b6MouseReleased
-        Wav.Sons(X.a1l6);
+        Wav.Sons(X.a2l6);
         Wav.tocarWav();
-        Mp3.Play(X.a1l6);
+        Mp3.Play(X.a2l6);
     }//GEN-LAST:event_b6MouseReleased
 
     private void b7MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b7MouseReleased
-        Wav.Sons(X.a1l7);
+        Wav.Sons(X.a2l7);
         Wav.tocarWav();
-        Mp3.Play(X.a1l7);
+        Mp3.Play(X.a2l7);
     }//GEN-LAST:event_b7MouseReleased
 
     private void b4MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b4MouseReleased
-        Wav.Sons(X.a1l4);
+        Wav.Sons(X.a2l4);
         Wav.tocarWav();
-        Mp3.Play(X.a1l4);
+        Mp3.Play(X.a2l4);
     }//GEN-LAST:event_b4MouseReleased
 
     private void b8MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b8MouseReleased
-        Wav.Sons(X.a1l8);
+        Wav.Sons(X.a2l8);
         Wav.tocarWav();
-        Mp3.Play(X.a1l8);
+        Mp3.Play(X.a2l8);
     }//GEN-LAST:event_b8MouseReleased
 
     private void b9MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b9MouseReleased
-        Wav.Sons(X.a1l9);
+        Wav.Sons(X.a2l9);
         Wav.tocarWav();
-        Mp3.Play(X.a1l9);
+        Mp3.Play(X.a2l9);
     }//GEN-LAST:event_b9MouseReleased
 
     private void b10MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b10MouseReleased
-        Wav.Sons(X.a1l10);
+        Wav.Sons(X.a2l10);
         Wav.tocarWav();
-        Mp3.Play(X.a1l10);
+        Mp3.Play(X.a2l10);
     }//GEN-LAST:event_b10MouseReleased
 
     private void b13MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b13MouseReleased
-        Wav.Sons(X.a1l13);
+        Wav.Sons(X.a2l13);
         Wav.tocarWav();
-        Mp3.Play(X.a1l13);
+        Mp3.Play(X.a2l13);
     }//GEN-LAST:event_b13MouseReleased
 
     private void b14MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b14MouseReleased
-        Wav.Sons(X.a1l14);
+        Wav.Sons(X.a2l14);
         Wav.tocarWav();
-        Mp3.Play(X.a1l14);
+        Mp3.Play(X.a2l14);
     }//GEN-LAST:event_b14MouseReleased
 
     private void b15MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b15MouseReleased
-        Wav.Sons(X.a1l15);
+        Wav.Sons(X.a2l15);
         Wav.tocarWav();
-        Mp3.Play(X.a1l15);
+        Mp3.Play(X.a2l15);
     }//GEN-LAST:event_b15MouseReleased
 
     private void b11MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b11MouseReleased
-        Wav.Sons(X.a1l11);
+        Wav.Sons(X.a2l11);
         Wav.tocarWav();
-        Mp3.Play(X.a1l11);
+        Mp3.Play(X.a2l11);
     }//GEN-LAST:event_b11MouseReleased
 
     private void b12MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b12MouseReleased
-        Wav.Sons(X.a1l12);
+        Wav.Sons(X.a2l12);
         Wav.tocarWav();
-        Mp3.Play(X.a1l2);
+        Mp3.Play(X.a2l2);
     }//GEN-LAST:event_b12MouseReleased
 
     private void b16MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b16MouseReleased
-        Wav.Sons(X.a1l16);
+        Wav.Sons(X.a2l16);
         Wav.tocarWav();
-        Mp3.Play(X.a1l16);
+        Mp3.Play(X.a2l16);
     }//GEN-LAST:event_b16MouseReleased
 
     private void b5MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b5MouseReleased
-        Wav.Sons(X.a1l5);
+        Wav.Sons(X.a2l5);
         Wav.tocarWav();
-        Mp3.Play(X.a1l5);
+        Mp3.Play(X.a2l5);
     }//GEN-LAST:event_b5MouseReleased
 
     private void b1InputMethodTextChanged(java.awt.event.InputMethodEvent evt) {//GEN-FIRST:event_b1InputMethodTextChanged
@@ -498,9 +498,9 @@ public class Tela2 extends javax.swing.JFrame {
     }//GEN-LAST:event_b1InputMethodTextChanged
 
     private void b2MouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_b2MouseReleased
-        Wav.Sons(X.a1l2);
+        Wav.Sons(X.a2l2);
         Wav.tocarWav();
-        Mp3.Play(X.a1l2);
+        Mp3.Play(X.a2l2);
     }//GEN-LAST:event_b2MouseReleased
 
     private void b2InputMethodTextChanged(java.awt.event.InputMethodEvent evt) {//GEN-FIRST:event_b2InputMethodTextChanged
@@ -508,7 +508,7 @@ public class Tela2 extends javax.swing.JFrame {
     }//GEN-LAST:event_b2InputMethodTextChanged
 
     private void DirMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_DirMouseReleased
-        Tela2 tl2 = new Tela2();
+        Tela1 tl2 = new Tela1();
         tl2.setVisible(true);
         dispose();
     }//GEN-LAST:event_DirMouseReleased
@@ -519,7 +519,7 @@ public class Tela2 extends javax.swing.JFrame {
     }//GEN-LAST:event_pauseMouseReleased
 
     private void EsqMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_EsqMouseReleased
-        Tela10 tl2 = new Tela10();
+        Tela3 tl2 = new Tela3();
         tl2.setVisible(true);
         dispose();
         // TODO add your handling code here:
